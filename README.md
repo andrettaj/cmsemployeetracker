@@ -9,6 +9,6 @@ The problem this code solves is that it can help prevent confusion and disorgani
 
 I learned how to build and create tables, add and delete rows and delete tables.  I learned how to create tables.  
 
-The most difficulty I had with this problem was to differentiate the difference between the schema.sql and the seeds.sql files.
+The most difficulty I had with this problem was with the functions.  This is always hard for me to create a function and have it actually work .
 
  
