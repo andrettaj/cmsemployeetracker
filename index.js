@@ -54,12 +54,17 @@ function displayOptions() {
                 break;
 
             case "Add Role":
-                addRole();
+                addRole(); 
                 break;
 
             case "Update Employee":
                     updateEmployee();
                     break;
+
+            case "Update Role":
+                    updateRole();
+                    break;
+                    
             default:
                 db.end()
                 process.exit(0)
