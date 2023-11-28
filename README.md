@@ -11,8 +11,10 @@ I learned how to build and create tables, add and delete rows and delete tables.
 
 The most difficulty I had with this problem was with the functions.  This is always hard for me to create a function and have it actually work .
 
+The project is still a work in progress.  Then only thing that works is the view.  Future development will require the update and the add to work.
+
  
 
 
-
- <iframe src="https://drive.google.com/file/d/1D7mhRDlwNkaBiYYRhrITPYlnkhsGNOlM/preview" width="640" height="480"></iframe>
+Link to github:  https://github.com/andrettaj/cmsemployeetracker
+Link to Walkthrough: https://drive.google.com/file/d/1AvRKO9nGn_I1lELvnxVXnwIOHjUWesds/view
