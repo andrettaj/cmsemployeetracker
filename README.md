@@ -13,7 +13,7 @@ The most difficulty I had with this problem was with the functions.  This is alw
 
 The project is still a work in progress.  Then only thing that works is the view.  Future development will require the update and the add to work.
 
- 
+ I collaborated with tudors for help along with using exercises that came with this module.
 
 
 Link to github:  https://github.com/andrettaj/cmsemployeetracker
